@@ -35,8 +35,10 @@
 
 ---
 
-### 📊 GitHub Stats
+
 <!--
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=milindprajapati&show_icons=true&theme=default&locale=en" alt="Milind's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindprajapati&layout=compact&theme=default" alt="Top Languages" />
