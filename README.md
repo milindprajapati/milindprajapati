@@ -52,11 +52,3 @@
 - 🧩 I enjoy breaking down complex problems into clean, scalable solutions
 - 🛠️ Open to collaboration on open-source and meaningful side projects
 
----
-
-### ☕ Support & Tools Used
-
-<p align="center">
-  <a href="https://github.com/rahuldkjain/github-profile-readme-generator" target="_blank">Generated using GitHub Profile README Generator</a> | 
-  <a href="https://ko-fi.com/rahuldkjain" target="_blank">Support the tool</a>
-</p>
