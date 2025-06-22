@@ -20,7 +20,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/imprajapati" target="_blank"><img alt="LinkedIn" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a>
   <a href="https://twitter.com/prajapatimilind" target="_blank"><img alt="Twitter" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" /></a>
-  <a href="https://www.leetcode.com/miraclemilind" target="_blank"><img alt="LeetCode" width="30" src="https://raw.githubusercontent.com/MonchiStyles/monchistyles/main/icons/leetcode.svg" /></a>
+  <a href="https://www.leetcode.com/miraclemilind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="miraclemilind" height="30" width="40" /></a>
 </p>
 
 ---
