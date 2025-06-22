@@ -11,7 +11,7 @@
 
 - 🌱 Exploring the power of **Rust**
 - 💬 Let’s chat about **Software Engineering**, system design, or developer tools
-- 📄 Learn more about me at [milindprajapati.github.io](https://milindprajapati.github.io)
+- 📄 Learn more about me at [Hi! It's Milind](https://milindprajapati.github.io)
 
 ---
 
