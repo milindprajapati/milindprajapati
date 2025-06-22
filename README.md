@@ -30,65 +30,29 @@
   <summary>🧠 Languages, Frameworks & Tools</summary>
 
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  <a href="https://developer.android.com" rel="noreferrer" target="_blank">
+<img alt="android" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://angular.io" rel="noreferrer" target="_blank">
+<img alt="angular" height="40" src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://angular.io" rel="noreferrer" target="_blank"> <img alt="angularjs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://www.arduino.cc/" rel="noreferrer" target="_blank">
+<img alt="arduino" height="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com" rel="noreferrer" target="_blank"> <img alt="aws" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/en-in/" rel="noreferrer" target="_blank"> <img alt="azure" height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://getbootstrap.com" rel="noreferrer" target="_blank"> <img alt="bootstrap" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://www.cprogramming.com/" rel="noreferrer" target="_blank"> <img alt="c" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" rel="noreferrer" target="_blank"> <img alt="cplusplus" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cs/" rel="noreferrer" target="_blank"> <img alt="csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" rel="noreferrer" target="_blank"> <img alt="css3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://www.djangoproject.com/" rel="noreferrer" target="_blank"> <img alt="django" height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" rel="noreferrer" target="_blank"> <img alt="docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://dotnet.microsoft.com/" rel="noreferrer" target="_blank"> <img alt="dotnet" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/" rel="noreferrer" target="_blank"> <img alt="flask" height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://cloud.google.com" rel="noreferrer" target="_blank"> <img alt="gcp" height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" rel="noreferrer" target="_blank"> <img alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://golang.org" rel="noreferrer" target="_blank"> <img alt="go" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/> </a>&nbsp;&nbsp;
+  <a href="https://grafana.com" rel="noreferrer" target="_blank"> <img alt="grafana" height="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/> </a>&nbsp;&nbsp;
 </p>
-
 
 
 
