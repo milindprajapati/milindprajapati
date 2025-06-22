@@ -17,10 +17,6 @@ preview
 <h1 align="center">Hi 👋, I'm Milind Prajapati</h1>
 <h3 align="center">A Master Craftsman for Coding Space at Work!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milindprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="milindprajapati" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milindprajapati" alt="milindprajapati" /></a> </p>
-
 - 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Software Engineering**
