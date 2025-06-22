@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22999
-Fork on GitHub
-7731
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Milind Prajapati</h1>
 <h3 align="center">A Master Craftsman for Coding Space at Work!</h3>
 
